@@ -1,7 +1,7 @@
 # website-slider 🍔
 This is a slider plugin made with jQuery. Here's how you can implement it on your website: 
 
-## Step 1 - Clone this repository and add the main folder to your project
+## Step 1 - Download this repository
 
 ## Step 2 - Make sure you have jquery available in your project
 
