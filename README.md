@@ -5,6 +5,7 @@ This is a slider plugin made with jQuery. Here's how you can implement it on you
 
 ### Include the necessary jquery script in your html document from a CDN...
 
+Before the body end-tag add this piece of HTML code:
 ``` 
 <script   src="https://code.jquery.com/jquery-3.3.1.min.js"   
           integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="   
