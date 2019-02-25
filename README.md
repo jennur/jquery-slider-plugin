@@ -5,10 +5,12 @@ Website slider made with JQuery (MA1 JSFrameworks)
 
 ### Include the necessary jquery script in your html document from a CDN...
 
+``` 
 <script   src="https://code.jquery.com/jquery-3.3.1.min.js"   
           integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="   
           crossorigin="anonymous">
-</script>
+</script> 
+```
 
 All CDN's are available here:
 https://code.jquery.com
