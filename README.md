@@ -5,7 +5,7 @@ This is a slider plugin made with jQuery. Here's how you can implement it on you
 
 Download the necessary files from this repository (Clone or download -> Download ZIP) and add it to your project folder. 
 
-Be aware of the relative paths in the HTML snippet you're about to add to your HTML file. The assets folder should be in the same directory as the HTML file to where you add the slideshow. (Of course you can change the relative paths in the HTML file yourself if you want a different directory structure.)
+Be aware of the relative paths in the HTML snippets you're about to add to your HTML file. The assets folder should be in the same directory as the HTML file to where you add the slideshow. (Of course you can change the relative paths in the HTML file yourself if you want a different directory structure.)
 
 In the ` <head>` of your HTML file, link the stylesheet for the slideshow by adding this piece of HTML to it:  
 ```html 
