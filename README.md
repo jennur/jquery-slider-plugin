@@ -1,5 +1,8 @@
 # website-slider 🍔
 This is a slider plugin made with jQuery. Here's how you can implement it on your website: 
+<p align="center">
+  <img width="460" src="automatic_slider_preview.gif">
+</p>
 
 ## Step 1 - Download this repository
 
@@ -75,6 +78,14 @@ Copy this piece of HTML into your existing HTML file wherever you want the slide
         </div>
     <!-- End of slide navigation -->
     </div> <!-- End of resoponsive slide container -->
+```
+
+#### NOTE: 
+If you do NOT want the slideshow to automatically change slides, you can simply add the `navigation__controllers` class to the `<ul>` class list inside the slide navigation. Now it will look like this: 
+```html 
+<div class="slideshow__navigation">
+  <ul class="navigation__list navigation__controllers"></ul>
+</div>
 ```
 
 ## Step 4 -Add the slideshow script
