@@ -11,14 +11,14 @@ $(document).ready(function() {
 
    
   var slidePosition = 0;
-  var hasControllers = $('navigation__controllers');
+  var hasControllers = $('.navigation__controllers').length;
 
   if(hasControllers){
     $(slides[0]).show();
     $(navBullets[0]).addClass('navigation__bullet--active');
 
     navBullets.bind('click', (e) => {
-      let navControllers = navBullets.toArray()
+      let navControllers = navBullets.toArray();
       slidePosition = $.inArray(e.target, navControllers);
       changeSlidePosition();
     });
