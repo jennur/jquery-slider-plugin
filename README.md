@@ -84,3 +84,5 @@ Link the slideshow script to your HTML file by adding this piece of HTML
 <script src="assets/js/slider.js"></script>
 ```
 If you're including jQuery by the use of a CDN, like mentioned before, it's important that this snippet comes AFTER the script-tag where you load the jQuery library, otherwise it won't work. 
+
+Now open up your HTML file and the slider should be working on your web page! 
