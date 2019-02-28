@@ -11,7 +11,7 @@ $(document).ready(function() {
 
    
   var slidePosition = 0;
-  var hasControllers = document.getElementsByClassName('navigation__controllers')[0];
+  var hasControllers = $('navigation__controllers');
 
   if(hasControllers){
     $(slides[0]).show();
