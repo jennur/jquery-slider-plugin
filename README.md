@@ -34,7 +34,7 @@ This will load jQuery and make it available for you to use in the scripts linked
 https://jquery.com/download/
 
 
-## Add the slider to your HTML file
+## Step 3 - Add the slider to your HTML file
 
 Copy this piece of HTML into your existing HTML file wherever you want the slider to appear. 
 ```html
@@ -77,7 +77,7 @@ Copy this piece of HTML into your existing HTML file wherever you want the slide
     </div> <!-- End of resoponsive slide container -->
 ```
 
-## Add the slideshow script
+## Step 4 -Add the slideshow script
 
 Link the slideshow script to your HTML file by adding this piece of HTML
 ```html
