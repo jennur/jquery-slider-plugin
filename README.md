@@ -77,6 +77,14 @@ Copy this piece of HTML into your existing HTML file wherever you want the slide
     </div> <!-- End of resoponsive slide container -->
 ```
 
+#### NOTE: 
+If you do NOT want the slideshow to automatically change slides, you can simply add the `navigation__controllers` class to the `<ul>` class list inside the slide navigation. Now it will look like this: 
+```html 
+<div class="slideshow__navigation">
+  <ul class="navigation__list navigation__controllers"></ul>
+</div>
+```
+
 ## Step 4 -Add the slideshow script
 
 Link the slideshow script to your HTML file by adding this piece of HTML
