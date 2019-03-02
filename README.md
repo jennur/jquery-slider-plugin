@@ -1,8 +1,11 @@
 # website-slider 🍔
-This is a slider plugin made with jQuery. Here's how you can implement it on your website: 
+This is a slider plugin made with jQuery.
+
 <p align="center">
   <img width="460" src="automatic_slider_preview.gif">
 </p>
+
+Here's how you can implement it on your website: 
 
 ## Step 1 - Download this repository
 
